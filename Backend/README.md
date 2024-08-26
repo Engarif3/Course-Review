@@ -39,7 +39,3 @@ Create a '.env' file in the root directory and add the following:
 # Build for Production
 
 - npm run build
-
-# l2b2a3-course-review-Engarif3
-
-# l2b2a4-course-review-with-auth-Engarif3
