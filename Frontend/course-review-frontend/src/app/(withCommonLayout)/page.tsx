@@ -4,8 +4,8 @@ import React from "react";
 const page = () => {
   return (
     <div>
-      <h2>Hello</h2>
-      <Button variant="outlined">Outlined</Button>
+      <h2>Home Page</h2>
+      <Button>Outlined</Button>
     </div>
   );
 };
