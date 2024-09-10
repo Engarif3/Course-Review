@@ -1,13 +1,13 @@
-import { Button } from "@mui/material";
-import React from "react";
+import HeroSection from "@/components/UI/Homepage/HeroSection/HeroSection";
+import GetAllCourses from "@/components/UI/pages/GetAllCourses";
 
-const page = () => {
+const Homepage = () => {
   return (
     <div>
-      <h2>Home Page</h2>
-      <Button>Outlined</Button>
+      <HeroSection />
+      <GetAllCourses />
     </div>
   );
 };
 
-export default page;
+export default Homepage;

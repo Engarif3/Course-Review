@@ -2,8 +2,8 @@ const assets = {
   images: {
     messenger: require("./icons/messenger.webp"),
   },
-  whatsapp: {
-    messenger: require("./icons/whatsapp.svg"),
+  svgs: {
+    whatsapp: require("./icons/whatsapp.svg"),
   },
 };
 
