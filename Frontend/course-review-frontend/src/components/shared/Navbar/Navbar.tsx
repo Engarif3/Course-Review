@@ -3,7 +3,7 @@ import Link from "next/link";
 
 const Navbar = () => {
   return (
-    <Container>
+    <Container maxWidth="xl">
       <Stack
         py={2}
         direction="row"

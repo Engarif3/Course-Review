@@ -4,7 +4,7 @@ import assets from "@/assets";
 
 const HeroSection = () => {
   return (
-    <Container sx={{ display: "flex", direction: "row", my: 16 }}>
+    <Container sx={{ display: "flex", direction: "row", my: 16 }} maxWidth="xl">
       <Box
         sx={{
           flex: 1,

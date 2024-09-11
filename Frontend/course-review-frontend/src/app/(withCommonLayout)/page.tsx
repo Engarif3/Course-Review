@@ -6,8 +6,8 @@ const Homepage = () => {
   return (
     <div>
       <HeroSection />
-      <GetAllCourses />
       <Categories />
+      <GetAllCourses />
     </div>
   );
 };
