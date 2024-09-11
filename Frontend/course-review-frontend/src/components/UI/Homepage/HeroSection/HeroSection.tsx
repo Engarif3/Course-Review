@@ -50,11 +50,18 @@ const HeroSection = () => {
           molestias sunt expedita corrupti nam accusamus quas, numquam autem
           perferendis omnis exercitationem.
         </Typography>
-        <Button>Enroll Now</Button>
+        <Button
+          sx={{
+            marginTop: "10px",
+            marginLeft: "8px",
+          }}
+        >
+          Enroll Now
+        </Button>
         <Button
           variant="outlined"
           sx={{
-            marginTop: "5px",
+            marginTop: "10px",
             marginLeft: "8px",
           }}
         >
@@ -66,7 +73,7 @@ const HeroSection = () => {
           position: "absolute",
           zIndex: 1,
           width: "600px",
-          top: "100px",
+          top: "90px",
           right: "240px",
           opacity: "15%",
         }}
