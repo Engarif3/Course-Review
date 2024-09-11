@@ -9,7 +9,7 @@ const Categories = async () => {
     },
   });
   const categories = await response.json();
-  console.log(categories);
+
   return (
     <Container maxWidth="xl">
       <Box
